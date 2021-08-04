@@ -1,0 +1,47 @@
+I"�<p>This is a catch-all page of materials I’ve either produced through fellowship/award applications in the past few years or that I’ve found very helpful during my graduate training. Feel free to email me with questions about opportunities I’ve applied for in the past!</p>
+
+<p><strong><em>Donald J. Cohen Fellowship in Developmental Social Neuroscience:</em></strong></p>
+
+<p><a href="https://med.emory.edu/departments/pediatrics/divisions/autism/fellow/cohen.html">This fellowship</a> is a two-year post-baccalaureate research position at the Marcus Autism Center in Atlanta, GA. There are <a href="https://med.emory.edu/departments/pediatrics/divisions/autism/fellow/index.html">multiple fellowship tracks at Marcus, others of which focus on clinical or computational training</a>. The fellowship is open to US domestic, international, and undocumented individuals. This experience supports folks who are interested in pursuing graduate school (PhD, MS, MD, MD/PhD) and/or those interested in industry positions.</p>
+
+<p>Status - Awarded</p>
+
+<p><strong><em>National Science Foundation – Graduate Research Fellowship Program:</em></strong></p>
+
+<p>I applied to the NSF GRFP during my post-bacc research experience, before entering graduate school. That changed how I prepared my application because I proposed a project without being in a program or lab (and didn’t end up in the lab I proposed!). Should you apply as a first- or second-year graduate student, you’ll design a project situated within your lab and university.</p>
+
+<p>These are some of the websites and tips I found most helpful when planning and ultimately writing my application materials:</p>
+
+<ul>
+  <li><a href="http://www.malloryladd.com/nsf-grfp-advice.html">Mallory Ladd</a> and <a href="https://www.alexhunterlang.com/nsf-fellowship">Alex Lang</a> have put in a ton of effort to describe their application processes and share their materials.</li>
+  <li><strong>Tip 1</strong>: Read everything on the <a href="https://www.nsfgrfp.org/applicants/">GRFP website</a> and in the <a href="https://www.nsfgrfp.org/applicants/grf-program-solicitation/">Program Solicitation</a>. It’s dense, but contains valuable information about formatting, eligibility, how to select your discipline, etc. Formatting is critical for the GRFP submission so it’s helpful to have it in your mind from the start.</li>
+  <li><strong>Tip 2</strong>: Ask folks in your field/neighboring fields for their <em>successful and unsuccessful</em> applications. As you review them, note the scope and innovation of their projects – are they emphasizing methodological or theoretical advances, the structure of their proposal – what are their section headings, etc., how does their personal statement echo their research proposal? From experience with the Life Sciences and Psychology disciplines, also pay attention to how folks are framing the potential clinical impact of their work. Clinical proposals are not the purview of NSF, but many basic science proposals have clinical applications relevant to a Broader Impacts section.</li>
+  <li><strong>Tip 3</strong>: Your application is not three/four separate documents (Research Statement, Project Proposal, CV), it is one total package written in different voices. Someone once told me that most reviewers will spend 10-15 mins reading your app. All of your materials should call back to one another so reviewers can come away with a cohesive and consistent understanding of your science and career goals.</li>
+</ul>
+
+<p>Status - Awarded</p>
+
+<p><strong><em>Favorites</em></strong>: This is a collection of books, online courses, podcasts, etc. that I return to again and again.</p>
+
+<p>Books:<br />
+<a href="https://osf.io/n8pc3/">The Writing Workshop by Dr. Barbara Sarnecka</a> – I discovered this book through science twitter during my second year of grad school and wish I knew about it from the moment I decided to pursue a PhD. Writing, and writing well, is the backbone of a PhD and academia more broadly. The Writing Workshop is a full of wisdom for improving your writing, getting more comfortable with the constant process of writing, and for prioritizing mental health in your everyday work.</p>
+
+<p>Youtube Channels:<br />
+<a href="https://www.3blue1brown.com/">3Blue1Brown</a> – As someone without a strong mathematics background, this YouTube channel, created by Grant Sanderson, is my go-to for all things linear algebra and calculus.</p>
+
+<p>Podcasts:<br />
+<a href="https://quantitudepod.org/">Quantitude</a> – it’s Car Guys but statistics and quantitative psychology.</p>
+
+<p><strong><em>Making my website:</em></strong></p>
+
+<p>I followed this fantastic guide from <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#setting-up-jekyll-">Amanda Visconti and The Programming Historian</a>. As comes with any sort of software installation, I needed to do some troubleshooting and found these websites very helpful for the following error messages:</p>
+<ul>
+  <li>Ruby permissions error: <a href="https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/?utm_source=stackoverflow">Installation Guide from Moncef Belyamani</a></li>
+  <li>cannot load such file – webrick: <a href="https://talk.jekyllrb.com/t/load-error-cannot-load-such-file-webrick/5417">Option 1</a></li>
+  <li>-bash: jekyll: command not found: <a href="https://stackoverflow.com/questions/8146249/jekyll-command-not-found">Option 1</a> and <a href="https://github.com/jekyll/jekyll/issues/1309">Option 2</a></li>
+</ul>
+
+<p><em>A good rule-of-thumb is to just google your error message.</em></p>
+
+<p>As I learn about different styles of formatting, adding new content, etc. I’ll link those pages too!</p>
+:ET
