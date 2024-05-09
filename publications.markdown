@@ -10,6 +10,9 @@ A. Rendall, **A. Ford**, P. Perrino, RH. Fitch (2017). Auditory Processing Enhan
 Jones, J. Bachevalier, M. M. Sánchez. (2023). Functional maturation in visual pathways predicts attention to the eyes in infant rhesus macaques: effects of social status. Developmental Cognitive Neuroscience, 60. PMID 36774827.
 * Corrigendum in Dev Cogn Neurosci. 2024 Mar 15:101364. doi: 10.1016/j.dcn.2024.101364. Epub ahead of print. Erratum   for: Dev Cogn Neurosci. 2023 Apr;60:101213. PMID: 38490845.
 
+FIT’NG, M. Korom, M.C. Camacho, **A. Ford**, H. Taha, D. Scheinost, M. Spann, K. Vaughn. (2023). An Opportunity to 
+Increase Collaborative Science in Fetal, Infant, and Toddler Neuroimaging. Biological Psychiatry, 93:10, 864-866. PMID 235987717.
+
 **A. Ford** & Z. Ammar, L. Li, S. Shultz. Lateralization of major white matter tracts during infancy is time-varying and tract-specific. Cereb Cortex. 2023 Sep 26;33(19):10221-10233. doi: 10.1093/cercor/bhad277. PMID: 37595203; PMCID: PMC10545441.
 
 **A. Ford**, H. Walum, B. Brice<sup>+</sup>, H. Patel<sup>+</sup>, S. Kunnikuru<sup>+</sup>, W. Jones, G. Berman, S. Shultz. Caregiver greeting to infants under 6 months already reflects emerging differences in those later diagnosed with autism. Accepted at Proceedings of the Royal Society B: Biological Sciences. doi: 10.1098/rspb.2023.2494.
