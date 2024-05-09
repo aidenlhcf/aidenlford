@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-Summarized for space and readability. [My full CV is linked here]({{site.baseurl}}/pdfs/AFord_072021.pdf). 
+Summarized for space and readability. [My full CV is linked here]({{site.baseurl}}/pdfs/AFord_CV.pdf). 
 
 ####  _Aiden Leigh Ford_ #### 
 
