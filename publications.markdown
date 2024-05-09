@@ -8,7 +8,7 @@ A. Rendall, **A. Ford**, P. Perrino, RH. Fitch (2017). Auditory Processing Enhan
 
 **A. Ford**, Z. A. Kovacs-Balint, A. Wang, E. Feczko, E. Earl, Ó. Miranda-Domínguez, L. Li, M. Styner, D. Fair, W. 
 Jones, J. Bachevalier, M. M. Sánchez. (2023). Functional maturation in visual pathways predicts attention to the eyes in infant rhesus macaques: effects of social status. Developmental Cognitive Neuroscience, 60. PMID 36774827.
-  Corrigendum in Dev Cogn Neurosci. 2024 Mar 15:101364. doi: 10.1016/j.dcn.2024.101364. Epub ahead of print. Erratum   for: Dev Cogn Neurosci. 2023 Apr;60:101213. PMID: 38490845.
+* Corrigendum in Dev Cogn Neurosci. 2024 Mar 15:101364. doi: 10.1016/j.dcn.2024.101364. Epub ahead of print. Erratum   for: Dev Cogn Neurosci. 2023 Apr;60:101213. PMID: 38490845.
 
 **A. Ford** & Z. Ammar, L. Li, S. Shultz. Lateralization of major white matter tracts during infancy is time-varying and tract-specific. Cereb Cortex. 2023 Sep 26;33(19):10221-10233. doi: 10.1093/cercor/bhad277. PMID: 37595203; PMCID: PMC10545441.
 
