@@ -24,7 +24,7 @@ _Collaborators:_ [Dr. Gordon Berman](http://www.biology.emory.edu/Berman/)
 
 _Representative papers:_ 
 
-A. Ford, H. Walum, B. Brice, H. Patel, S. Kunnikuru, W. Jones, G. Berman, S. Shultz. Caregiver greeting to infants under 6 months already reflects emerging differences in those later diagnosed with autism. Accepted at Proceedings of the Royal Society B: Biological Sciences. doi: 10.1098/rspb.2023.2494.
+A. Ford, H. Walum, B. Brice, H. Patel, S. Kunnikuru, W. Jones, G. Berman, S. Shultz. Caregiver greeting to infants under 6 months already reflects emerging differences in those later diagnosed with autism. Proc. R. Soc. B ;291: 20232494. https://doi.org/10.1098/rspb.2023.2494
  
 #### **MEBB: Macaque Early Brain-Behavior** #### 
 
@@ -40,4 +40,3 @@ _Representative papers:_
 
 A. Ford, Z. A. Kovacs-Balint, A. Wang, E. Feczko, E. Earl, O. Miranda-Dominguez, L. Li, M. Styner, D. Fair, W. 
 Jones, J. Bachevalier, M. Sanchez. (2023). Functional maturation in visual pathways predicts attention to the eyes in infant rhesus macaques: effects of social status. Developmental Cognitive Neuroscience, 60. PMID 36774827.
-* Corrigendum in Dev Cogn Neurosci. 2024 Mar 15:101364. doi: 10.1016/j.dcn.2024.101364. Epub ahead of print. Erratum for: Dev Cogn Neurosci. 2023 Apr;60:101213. PMID: 38490845.
