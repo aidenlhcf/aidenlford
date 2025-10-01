@@ -22,10 +22,9 @@ title: Aiden Ford
 emailtitle: Email me, tweet me, if you want to reach me.
 email: aiden.l.ford@emory.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A neuroscientist diving into psychology and computing.
+  A neuroscientist diving into psychology and computing. Bluesky: @aidenlf.bsky.social
 baseurl: "/aidenlford" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-bluesky_username: aidenlf.bsky.social
 github_username:  aidenlhcf
 
 # Build settings
