@@ -17,9 +17,13 @@ Increase Collaborative Science in Fetal, Infant, and Toddler Neuroimaging. *Biol
 
 **A. Ford**, H. Walum, B. Brice<sup>+</sup>, H. Patel<sup>+</sup>, S. Kunnikuru<sup>+</sup>, W. Jones, G. Berman, S. Shultz. (2024). Caregiver greeting to infants under 6 months already reflects emerging differences in those later diagnosed with autism. *Proceedings of the Royal Society B: Biological Sciences*, 291:20232494. doi: 10.1098/rspb.2023.2494. PMID: 38872278; PMCID: PMC11285873.
 
-### In Preparation ###
-**A. Ford**, J. Kortanek<sup>+</sup>, L. Li, Z. Ammar, X. Dai & S. Shultz. A developmental neuroscientist's guide to functional data analysis:Tools for mapping the dynamics of sparse longitudinal data. 
+A. Key, A. Inman, K. Chambers, **A. Ford**, C. Kjeldsen, M.L. Neel. (2025). Social Interactions and Interbrain Synchrony in Early Development: A Scoping Review of Pediatric EEG/MEG Hyperscanning Studies. Psychophysiology. 2025 Dec;62(12):e70188. PMID: 41312670.
 
-**A. Ford**, X. Dai, L. Li, W. Jones, A. Klin, S. Shultz. Maturation of motor corticofugal tracts predicts preferential attention to the eyes of others in early infancy. 
+### Submitted/Under review ###
+**A. Ford**, X. Dai, W. Jones, A. Klin, L. Li, S. Shultz. Maturation of motor corticofugal tracts predicts attention to the eyes of others in early infancy.
+
+**A. Ford**, N.R. Pilgeram, A. Wang, M. C.  Alvarado, T. Jonesteller, J. Wesson, K. Bailey, S. Ginsberg, P. Karur, M. Sanchez, J. Bachevalier. Matrilineal social rank is associated with patterns of attention to social scenes in male infant rhesus macaques.
+
+E. Kortanek<sup>+</sup>, ****, S. Shultz, W. Jones, A. Klin, L. A. Edwards. Sex differences in the association between infants’ preferential eye-looking and later expressive language skills.
 
 <sup>+</sup> Mentored student
