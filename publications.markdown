@@ -24,6 +24,6 @@ A. Key, A. Inman, K. Chambers, **A. Ford**, C. Kjeldsen, M.L. Neel. (2025). Soci
 
 **A. Ford**, N.R. Pilgeram, A. Wang, M. C.  Alvarado, T. Jonesteller, J. Wesson, K. Bailey, S. Ginsberg, P. Karur, M. Sanchez, J. Bachevalier. Matrilineal social rank is associated with patterns of attention to social scenes in male infant rhesus macaques.
 
-E. Kortanek<sup>+</sup>, ****, S. Shultz, W. Jones, A. Klin, L. A. Edwards. Sex differences in the association between infants’ preferential eye-looking and later expressive language skills.
+E. Kortanek<sup>+</sup>, **A. Ford**, S. Shultz, W. Jones, A. Klin, L. A. Edwards. Sex differences in the association between infants’ preferential eye-looking and later expressive language skills.
 
 <sup>+</sup> Mentored student
